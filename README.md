@@ -1,34 +1,31 @@
 <h1 align="center">Heitor Paranhos</h1>
-<h3 align="center">Fullstack Developer · Enterprise Systems · Book Distribution</h3>
+<h3 align="center">Fullstack Developer · Enterprise Software · Distribution & Logistics</h3>
 
 <p align="center">
-  I design and build robust web applications for large book distributors, combining solid back-end architecture with clean, user-friendly interfaces.
+  	I work on robust web applications for large book distributors, leveraging multiple technologies across front end, back end, and integrations to deliver reliable, scalable systems.
 </p>
 
 ---
 
 
-## 🧑‍💻 About me
+##  About me
 
-- 🔭 **Currently working on:**  
+-  **Currently working on:**  
   Enterprise platform for **large book distributors**, with focus on logistics, pricing and catalog management.
 
-- 🧩 **What I enjoy solving:**  
+-  **What I enjoy solving:**  
   Complex business rules, integrations between systems, and turning messy processes into predictable flows.
 
-- 🎯 **Professional focus:**  
+-  **Professional focus:**  
   Clean, maintainable code · scalable architectures · automation · developer experience.
-
-- ⚡ **Fun fact:**  
-  I help build systems for book distributors, yet I still buy more books than I can actually read.
 
 ---
 
-## 🚀 What I’m doing right now
+##  What I’m doing right now
 
 ### Current projects
-- 🏗 **Core enterprise platform** – Domain-driven modules, APIs and background jobs to support day-to-day operations.
-- 📦 **Side/open-source experiments** – Inventory & order management utilities and small dev tools.  
+-  **Core enterprise platform** – Domain-driven modules, APIs and background jobs to support day-to-day operations.
+-  **Side/open-source experiments** – Inventory & order management utilities and small dev tools.  
   ➜ <a href="https://github.com/heitorparanhos">github.com/heitorparanhos</a>
 
 ### Currently learning
@@ -39,7 +36,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Web & Frontend
 
@@ -56,7 +53,6 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/>
 </p>
